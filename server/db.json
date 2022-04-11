@@ -1,0 +1,86 @@
+{
+  "contacts": [
+    {
+      "id": "def1",
+      "name": "XYZ jkn 0000",
+      "company": "HV cc",
+      "email": "aasthajain906@gmail.com",
+      "title": "XYZ",
+      "mobile": "5464654",
+      "photo": "https://cdn.pixabay.com/photo/2015/03/04/22/35/head-659652_960_720.png",
+      "groupId": "4"
+    },
+    {
+      "id": "def2",
+      "name": "BAC1112220000",
+      "company": "EY111",
+      "email": "ajain906@gmail.com111",
+      "title": "BAC111",
+      "mobile": 454545111,
+      "photo": "https://cdn.pixabay.com/photo/2015/03/04/22/35/head-659652_960_720.png",
+      "groupId": "1"
+    },
+    {
+      "id": "def3",
+      "name": "JHF 11",
+      "email": "aast906@gmail.com",
+      "company": "AT",
+      "title": "JHF",
+      "mobile": "5464654",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpXZQvkdKseN6EY6fktNsf3-30TI9AeZFmeaEstXKIRMPprymHbmEFkQ47p77O1vTfL08&usqp=CAU",
+      "groupId": "4"
+    },
+    {
+      "id": "def4",
+      "name": "JHF477777",
+      "email": "aajn906@gmail.com 0000",
+      "company": "EY111",
+      "title": "JHF",
+      "mobile": 546465499999,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpXZQvkdKseN6EY6fktNsf3-30TI9AeZFmeaEstXKIRMPprymHbmEFkQ47p77O1vTfL08&usqp=CAU",
+      "groupId": "1"
+    },
+    {
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIH3cVN9nVOwezMJZgjRo0YhASylFMo1nJpw&usqp=CAU",
+      "name": "testing",
+      "email": "test@gmail.com",
+      "mobile": 5456454541,
+      "company": "def",
+      "title": "a",
+      "groupId": "3",
+      "id": "KiaNXjM"
+    },
+    {
+      "name": "refrv ffff",
+      "email": "aasthajain906@gmail.com",
+      "mobile": 7389787464,
+      "company": "AT",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIH3cVN9nVOwezMJZgjRo0YhASylFMo1nJpw&usqp=CAU",
+      "title": "refrv",
+      "groupId": "4",
+      "id": "0AxCPk1"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Family"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Services"
+    },
+    {
+      "id": "4",
+      "name": "Collegue"
+    },
+    {
+      "id": "1",
+      "name": "Social"
+    }
+  ]
+}

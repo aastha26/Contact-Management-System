@@ -1,0 +1,28 @@
+/* .btn btn-success{
+    padding-left: 50%;
+}  */
+
+/* .btn{
+    text-align: left;
+}  
+
+.btn-success{
+    /* padding-left: 50%; */
+    /*text-align: right;
+
+} */
+
+/* a.btn.btn-success.btn-sm{
+    text-align: center;
+} */
+.button{
+        text-align: left;
+        margin-top: -3%;
+        margin-left: 15%;
+}
+
+.contact-img{
+    width: 100px;
+    border-radius: 50%;
+}
+
